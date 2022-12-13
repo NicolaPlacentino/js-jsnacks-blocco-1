@@ -1,0 +1,24 @@
+/* reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* general */
+
+body{
+    font-family: sans-serif;
+}
+
+main{
+    padding: 30px;
+    text-align: center;
+}
+
+
+input{
+    padding: 10px;
+    margin: 20px;
+}
